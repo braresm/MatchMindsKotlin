@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810553249294",
+    "project_id": "matchminds-4d4eb",
+    "storage_bucket": "matchminds-4d4eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810553249294:android:508dae0e5d68428946f65f",
+        "android_client_info": {
+          "package_name": "com.example.matchminds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbHB0zWNve2j0YMZkIRwcaSxfDmoi03jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
